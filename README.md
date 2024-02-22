@@ -1,1 +1,1 @@
-# CLI-Project
+# CLI-Project Infrastructure For Embedded Devices 
